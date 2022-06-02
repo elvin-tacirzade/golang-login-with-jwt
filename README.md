@@ -1,6 +1,6 @@
 This is a simple login and register example using the JWT token
 
-#Used packages
+# Used packages
 [gorilla-mux](https://github.com/gorilla/mux)
 
 [gorm](https://gorm.io/gorm)
